@@ -24,6 +24,7 @@ Contributions most welcome.
 
 ## Courses
 
+* [Artificial Intelligence A-Z™: Learn How To Build An AI] Course AI https://learninglcom.com
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
 * [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion?a_aid=algmotion&a_bid=5d7bc0ba) - Beginner's course to learn deep learning and neural networks without frameworks.
 * [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) - Learn the Fundamentals of AI. Course run by Peter Norvig
